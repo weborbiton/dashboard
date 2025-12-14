@@ -1,0 +1,140 @@
+WebOrbiton Dashboard License – Version 1.1
+© 2025 WebOrbiton Team
+Date: 2025-12-14
+
+====================================================================
+1. GENERAL PROVISIONS AND COPYRIGHT
+====================================================================
+
+The WebOrbiton Dashboard software (“Software”) is provided as "source available"
+and is subject to the terms of this License.
+
+All copyrights to the Software (including PHP, JS, HTML, CSS, configuration
+files, and other original components),
+excluding any third-party libraries, icon sets, or components used
+(which remain subject to their own respective licenses),
+belong to the WebOrbiton Team (“Licensor”).
+
+Definitions:
+- Licensee: any person or legal entity using the Software.
+- Commercial Project: the Software (original or modified) offered directly
+  as a standalone product, paid service, subscription, or SaaS solution,
+  where the Software itself constitutes the primary value of the offering.
+
+The Licensee is permitted to modify the Software in any manner, including:
+- changing function names, structure, or internal logic,
+- creating forks and derivative works,
+- adapting the Software for individual or internal needs.
+
+Attribution (author information) is not required, but is appreciated.
+
+====================================================================
+2. USE IN FREE AND COMMERCIAL PROJECTS
+====================================================================
+
+The Software may be used in both free and revenue-generating projects,
+including but not limited to:
+- donations,
+- advertisements,
+- sale of products or services,
+- hosting platforms,
+- online stores,
+- paid features or subscriptions within a broader service,
+- affiliate-based projects.
+
+Such usage DOES NOT require consent from the Licensor, provided that
+the Software is not offered directly as a standalone paid product,
+subscription, or SaaS service.
+
+Example:
+Using WebOrbiton Dashboard as an internal or public status dashboard
+within a larger commercial service is allowed without approval.
+
+====================================================================
+3. SAAS, PAID PRODUCTS, AND REVENUE THRESHOLD
+====================================================================
+
+If the Software (original or modified) is offered directly as:
+- a standalone paid product,
+- a paid subscription,
+- a paid SaaS solution,
+
+then WebOrbiton Dashboard SHALL BE CONSIDERED AS THE ENTIRE PRODUCT
+for licensing and revenue calculation purposes.
+
+If the gross monthly revenue generated directly from such offering exceeds
+1500 USD (or equivalent in another currency), the Licensee is required to:
+
+1. Within 60 days of exceeding the threshold, submit the project for review
+   via: https://weborbiton.click/commercial
+2. Obtain approval for continued commercial use within 90 days of submission.
+
+The Licensor commits to issuing a decision within 60 days of receiving
+the submission.
+
+Failure to obtain approval, or continuing commercial activity after refusal,
+requires the Licensee to immediately cease such use or obtain a separate
+commercial license.
+
+Non-compliance constitutes a violation of this License.
+
+====================================================================
+4. THIRD-PARTY ICONS (BOXICONS)
+====================================================================
+
+The dashboard user interface uses icons provided by the Boxicons icon set.
+
+Boxicons are NOT part of the Software and are NOT owned by the Licensor.
+They are subject to the Boxicons license and terms, available at:
+https://boxicons.com/
+
+Use, modification, and redistribution of Boxicons icons are governed
+exclusively by the Boxicons license.
+
+The Licensor makes no claim of ownership over Boxicons icons and is not
+responsible for license compliance related to third-party icon sets.
+
+====================================================================
+5. WARRANTY AND LIABILITY
+====================================================================
+
+The Software is provided “AS IS”, WITHOUT ANY WARRANTY, express or implied,
+including but not limited to warranties of merchantability or fitness
+for a particular purpose.
+
+The Licensor shall not be liable for:
+- direct or indirect damages,
+- loss of data,
+- service interruptions,
+- financial or business losses.
+
+To the maximum extent permitted by law, the Licensor’s total liability
+is limited to 1 USD.
+
+====================================================================
+6. LICENSE VIOLATION AND TERMINATION
+====================================================================
+
+Any violation of this License results in the automatic termination of all
+rights granted to the Licensee without prior notice.
+
+All disputes arising from this License shall be governed by the laws of
+the Republic of Poland and subject to the exclusive jurisdiction of Polish
+courts.
+
+====================================================================
+7. FINAL PROVISIONS
+====================================================================
+
+A Licensee who obtained the Software under this License (Version 1.1)
+may continue using it under its terms, even if a newer version is published.
+
+Any exceptions, additional permissions, or commercial agreements must be
+issued explicitly by the Licensor.
+
+By using, copying, modifying, or distributing the Software, the Licensee
+acknowledges and accepts the terms of this License.
+
+====================================================================
+END OF DOCUMENT
+====================================================================
